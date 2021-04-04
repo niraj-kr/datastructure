@@ -1,4 +1,5 @@
-/* stack implementation using static array*/
+/* stack implementation using static array
+this is not correct (experimental)*/
 
 #include <stdio.h>
 #define CAPACITY 5 //Pre-process macro
